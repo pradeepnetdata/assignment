@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home_screen"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/navigation_watchlist"
+        android:icon="@drawable/watch_list"
+        android:title="WatchList"/>
+
+    <item
+        android:id="@+id/navigation_graph"
+        android:icon="@drawable/graph"
+        android:title="Graph"/>
+
+</menu>
